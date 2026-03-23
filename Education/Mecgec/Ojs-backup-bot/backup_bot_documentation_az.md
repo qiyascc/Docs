@@ -219,9 +219,9 @@ TG_MAX_BYTES = 48 * 1024 * 1024
 ## Blok 4 — Backup hədəfləri
 
 ```python
-DB_USER = "ojs_user"
-DB_PASS = "MecgecEpic!2026Auuu"
-DB_NAME = "ojs_db"
+DB_USER = "user"
+DB_PASS = "pass"
+DB_NAME = "db"
 ```
 
 Verilənlər bazası bağlantı məlumatları. `config.inc.php`-dakı dəyərlərlə eyni olmalıdır.
